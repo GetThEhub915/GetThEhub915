@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in technology 
+<h1>Hi, I’m Chris! Passionate Cybersecurity Analyst</h1>
+  
+  <h2>Cypersecurity Projects:</h2> 
+  
+  <h2>Azure / Cloud Cybersecurity Projects</h2>
+  
+ <b>Creating a Live SOC Honeynet in Azure</b>  <ol>https://github.com/GetThEhub915/Cloud-SOC</ol>
 - 🌱 I’m currently learning Cybersecurity and Assurrance at WGU anticipated graduation date 8/2025
 - 💞️ I’m looking to collaborate on obtaining project experience/internships/ work/job
 - 📫 How to reach me hackme2tools2023@gmail.com 
