@@ -1,4 +1,4 @@
-<h1>Hi, I’m Chris! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I’m Chris! Passionate in regards to cybersecurity </h1>
   
   <h2>Cypersecurity Projects:</h2> 
   
